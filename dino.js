@@ -65,7 +65,7 @@ window.onload = function() {
 
     requestAnimationFrame(update);
     setInterval(placeCactus, 1000);
-
+}
 function update() {
     requestAnimationFrame(update);
 
